@@ -64,12 +64,12 @@ public partial class Player : CharacterBody2D
                 break;
 
             case "down":
-                if (movement == 1) _animSprite.Play("DownWalk");
+                if (movement == 1) _animSprite.Play("FrontWalk");
                 else _animSprite.Play("DownIdle");
                 break;
 
             case "up":
-                if (movement == 1) _animSprite.Play("FrontWalk");
+                if (movement == 1) _animSprite.Play("BackWalk");
                 else _animSprite.Play("Idle"); 
                 break;
         }
