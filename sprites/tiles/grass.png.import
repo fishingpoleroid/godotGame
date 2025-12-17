@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtldj7y741ah2"
-path="res://.godot/imported/TX Tileset Stone Ground.png-c6baba6c739ebde2c110fccf754e2727.ctex"
+uid="uid://dho8henb30e4y"
+path="res://.godot/imported/grass.png-f9876e2ee3eb9faa1fa53b3cb16e8860.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Pixel Art Top Down - Basic v1.2.2/Texture/TX Tileset Stone Ground.png"
-dest_files=["res://.godot/imported/TX Tileset Stone Ground.png-c6baba6c739ebde2c110fccf754e2727.ctex"]
+source_file="res://sprites/tiles/grass.png"
+dest_files=["res://.godot/imported/grass.png-f9876e2ee3eb9faa1fa53b3cb16e8860.ctex"]
 
 [params]
 
